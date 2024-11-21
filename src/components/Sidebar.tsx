@@ -12,7 +12,7 @@ export function Sidebar() {
     <>
       <button
         onClick={toggleSidebar}
-        className="absolute top-4 left-4 z-[1000] bg-white dark:bg-gray-800 p-2 rounded-lg shadow-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
+        className="absolute top-4 right-4 z-[1000] bg-white dark:bg-gray-800 p-2 rounded-lg shadow-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
       >
         {isSidebarOpen ? (
           <X className="w-6 h-6 text-gray-700 dark:text-gray-200" />
@@ -22,8 +22,8 @@ export function Sidebar() {
       </button>
 
       <div
-        className={`fixed top-0 left-0 h-full bg-white dark:bg-gray-800 shadow-xl transition-transform duration-300 transform z-[999] ${
-          isSidebarOpen ? 'translate-x-0' : '-translate-x-full'
+        className={`fixed top-0 right-0 h-full bg-white dark:bg-gray-800 shadow-xl transition-transform duration-300 transform z-[999] ${
+          isSidebarOpen ? 'translate-x-0' : 'translate-x-full'
         }`}
         style={{ width: '320px' }}
       >
