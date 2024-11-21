@@ -2,11 +2,11 @@
 
 *This is a v2 of the Memory Map. I created this in collaboration with Bolt.new, which fixed some of the issues with previous code.*
 
-V1 Repo: https://github.com/calluxpore/Memorymap
-V1 Live pages: https://calluxpore.github.io/Memorymap/
+V1 Repo: [https://github.com/calluxpore/Memorymap](https://github.com/calluxpore/Memorymap)  
+V1 Live pages: [https://calluxpore.github.io/Memorymap/](https://calluxpore.github.io/Memorymap/)
 
-V2 Repo: https://github.com/calluxpore/Memory-Map-V2
-V2 Live pages: https://calluxpore.github.io/Memory-Map-V2/
+V2 Repo: [https://github.com/calluxpore/Memory-Map-V2](https://github.com/calluxpore/Memory-Map-V2)  
+V2 Live pages: [https://calluxpore.github.io/Memory-Map-V2/](https://calluxpore.github.io/Memory-Map-V2/)
 
 ---
 
